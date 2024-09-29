@@ -3,10 +3,7 @@ There has been a host of work on entity resolution (ER), to identify tuples that
 
 More details can be found in our paper: 
 
-```
-Wenfei Fan, Ziyan Han, Min Xie, and Guangyi Zhang. Discovering Top-k Relevant and Diversified Rules. In SIGMOD (2025). ACM.
-```
-[(Download Here)](https://philo-vanguard.github.io/files/papers/Tuple-Splitting-SIGMOD24.pdf)
+Wenfei Fan, Ziyan Han, Weilong Ren, Ding Wang, Yaoshu Wang, Min Xie, and Mengyi Yan. _Splitting Tuples of Mismatched Entities_. In SIGMOD (2024). ACM. [(Download)](https://philo-vanguard.github.io/files/papers/Tuple-Splitting-SIGMOD24.pdf)
 
 ## Install Required Packages
 ```
