@@ -3,7 +3,8 @@ There has been a host of work on entity resolution (ER), to identify tuples that
 
 For more details, see our paper: 
 
-Wenfei Fan, Ziyan Han, Weilong Ren, Ding Wang, Yaoshu Wang, Min Xie, and Mengyi Yan. [*Splitting Tuples of Mismatched Entities*](https://philo-vanguard.github.io/files/papers/Tuple-Splitting-SIGMOD24.pdf). In SIGMOD (2024). ACM.
+> Wenfei Fan, Ziyan Han, Weilong Ren, Ding Wang, Yaoshu Wang, Min Xie, and Mengyi Yan. [*Splitting Tuples of Mismatched Entities*](https://philo-vanguard.github.io/files/papers/Tuple-Splitting-SIGMOD24.pdf). In SIGMOD (2024). ACM.
+
 
 ## Install Required Packages
 ```
