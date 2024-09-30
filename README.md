@@ -1,9 +1,9 @@
 # Tuple Splitting
 There has been a host of work on entity resolution (ER), to identify tuples that refer to the same entity. This paper studies the inverse of ER, to identify tuples to which distinct real-world entities are matched by mistake, and split such tuples into a set of tuples, one for each entity. We formulate the tuple splitting problem. We propose a scheme to decide what tuples to split and what tuples to correct without splitting, fix errors/assign attribute values to the split tuples, and impute missing values. The scheme introduces a class of rules, which embed predicates for aligning entities across relations and knowledge graphs 𝐺 , assessing correlation between attributes, and extracting data from 𝐺. It unifies logic deduction, correlation models, and data extraction by chasing the data with the rules. We train machine learning models to assess attribute correlation and predict missing values. We develop algorithms for the tuple splitting scheme. 
 
-More details can be found in our paper: 
+For more details, see our paper: 
 
-Wenfei Fan, Ziyan Han, Weilong Ren, Ding Wang, Yaoshu Wang, Min Xie, and Mengyi Yan. _Splitting Tuples of Mismatched Entities_. In SIGMOD (2024). ACM. [(Download)](https://philo-vanguard.github.io/files/papers/Tuple-Splitting-SIGMOD24.pdf)
+Wenfei Fan, Ziyan Han, Weilong Ren, Ding Wang, Yaoshu Wang, Min Xie, and Mengyi Yan. [*Splitting Tuples of Mismatched Entities*](https://philo-vanguard.github.io/files/papers/Tuple-Splitting-SIGMOD24.pdf). In SIGMOD (2024). ACM.
 
 ## Install Required Packages
 ```
